@@ -2,12 +2,18 @@
 
 <p align="center">
   <b>Full-stack developer & product builder</b> — from AI-powered SaaS to online game servers,
-  automation, growth/SEO and audio DSP. I take ideas from concept to deploy:
-  architecture, code, security and shipping.
+  automation, growth/SEO and audio DSP.<br/>
+  I take ideas from concept to deploy: architecture, code, security and shipping.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bunihayashi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/gabriel-hayashi-27901a3ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:migmadeingr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bunihayashi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -34,44 +40,49 @@
 
 ## 🛠️ Tech & languages
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/GLSL-5586A4?logo=opengl&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoHotkey-334455?logo=autohotkey&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-121011?logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bunihayashi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunihayashi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bunihayashi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunihayashi&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
 </div>
 
 <div align="center">
@@ -79,11 +90,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bunihayashi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bunihayashi&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bunihayashi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=bunihayashi&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ---
@@ -109,4 +120,17 @@
 
 ---
 
-<p align="center"><i>Open to collaborations in web, AI, automation and digital products.</i></p>
+<h3 align="center">📫 Let's connect</h3>
+
+<p align="center">
+  Open to collaborations in <b>web, AI, automation and digital products</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-hayashi-27901a3ab">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:migmadeingr@gmail.com">
+    <img src="https://img.shields.io/badge/migmadeingr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
