@@ -113,7 +113,7 @@
   (Hunter.io/Apollo + scraping), Reddit opportunities and HTML reports.
 - **Nexus Audio Lab** — high-fidelity audio synthesis (Solfeggio, binaural, colored noise) at
   96kHz/32-bit float.
-- **Chatterbox Studio** — Gradio panel to generate MP3 narrations with TTS and reference voices.
+- **Open Voice Studio** — Gradio panel to generate MP3 narrations with TTS and reference voices.
 - **After Effects automation panel** — ScriptUI for automated video compositions.
 - **Interactive game guides (PT-BR)** — static site with calculators and an interactive map.
 - *...plus various automation utilities (video downloading, batch renaming, clipboard capture).*
