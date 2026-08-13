@@ -81,12 +81,13 @@
 
 ## 📊 GitHub activity
 
-<table align="center">
-  <tr>
-    <td><img width="420" src="https://raw.githubusercontent.com/bunihayashi/bunihayashi/metrics/github-metrics.svg" alt="GitHub stats & top languages" /></td>
-    <td><img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=bunihayashi&theme=tokyonight&hide_border=true" alt="contribution streak" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/bunihayashi/bunihayashi/metrics/github-metrics.svg" alt="GitHub stats & top languages" />
+</div>
+
+<div align="center">
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=bunihayashi&theme=tokyonight&hide_border=true" alt="contribution streak" />
+</div>
 
 <div align="center">
   <picture>
