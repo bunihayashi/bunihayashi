@@ -82,7 +82,7 @@
 ## 📊 GitHub activity
 
 <div align="center">
-  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=bunihayashi&theme=tokyonight&hide_border=true" alt="contribution streak" />
+  <img width="480" src="https://streak-stats.demolab.com/?user=bunihayashi&theme=tokyonight&hide_border=true" alt="contribution streak" />
 </div>
 
 <div align="center">
